@@ -15,7 +15,7 @@ This plugin currently does not support configuration.
 ### Generate nuspec
 
     Generate-NuSpec `
-    	-destination [<PathToNuspecTemplate>] `
+    	-template [<PathToNuspecTemplate>] `
 		-destination <PathToDestinationDirectory> `
 		-id <NugetPackageId> `
 		-version <NugetPackageVersion> `
